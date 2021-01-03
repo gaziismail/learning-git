@@ -1,3 +1,8 @@
 .ione{
     background-color: lightgray;
 }
+.itwo{
+    width: 800px;
+    border: 10px solid red;
+    border-radius: 30px;
+}
